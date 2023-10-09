@@ -1,4 +1,5 @@
-# OLA Project 2023
+# Pricing and Advertising project
+
 This is the GitHub repository for the final project for the Online Learning Applications course, A.Y. 2022/2023.
 Project authors: 
 
